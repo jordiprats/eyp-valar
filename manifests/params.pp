@@ -1,8 +1,5 @@
 class valar::params {
 
-  $package_name='valar'
-  $service_name='valar'
-
   case $::osfamily
   {
     'redhat':
